@@ -1,0 +1,12 @@
+name: Views FractionSlider
+type: module
+description: 'Provides views FractionSlider display plugin.'
+package: Views
+core_version_requirement: ^8 || ^9
+dependencies:
+  - fractionslider:fractionslider
+
+# Information added by Drupal.org packaging script on 2020-04-09
+version: '8.x-1.2'
+project: 'views_fractionslider'
+datestamp: 1586434326
